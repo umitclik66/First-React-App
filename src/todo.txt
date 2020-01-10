@@ -1,6 +1,7 @@
 Yapıldı
 login - masterpage kontrolü yapıldı.
 login olduktan sonra ana sayfaya yönlendirme yap
+....
 
 Yapılacak
 - Authentication sistemi kur.
