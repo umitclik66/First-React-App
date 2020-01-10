@@ -82,7 +82,7 @@ class Contact extends React.Component {
   // onPasswordChange(event){
   //     this.setState({pPassword:event.target.value});
   // }
-
+ //test
   onSubmitButtonClicked() {
     const data = JSON.stringify({
       firstParam: "yourValue",
