@@ -38,7 +38,7 @@ class Login extends React.Component {
               required=""
               autoFocus=""
               value="1"
-            ></input>
+            ></input> 
             <input
               type="email"
               id="inputEmail"
